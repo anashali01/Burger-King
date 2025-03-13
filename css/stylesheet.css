@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Flame';
+    src: url('../Font/transfonter.org-20250312-054558/FlameBold.woff2') format('woff2'),
+        url('../Font/transfonter.org-20250312-054558/FlameBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flame';
+    src: url('../Font/transfonter.org-20250312-054558/FlameCondensed.woff2') format('woff2'),
+        url('../Font/transfonter.org-20250312-054558/FlameCondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flame';
+    src: url('../Font/transfonter.org-20250312-054558/FlameRegular.woff2') format('woff2'),
+        url('../Font/transfonter.org-20250312-054558/FlameRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flame';
+    src: url('../Font/transfonter.org-20250312-054558/FlameSans.woff2') format('woff2'),
+        url('../Font/transfonter.org-20250312-054558/FlameSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

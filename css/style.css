@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+img{
+    display: block;
+    max-width: 100%;
+}
+body{
+    background-color: #f8f1e7;
+}
+:root{
+    --Flame-font :"Flame";
+    --theme-brown: #502314;
+}
+/* BANNER START */
+.banner h2,
+.offer .card .card-body .card-title{
+    font-family: var(--Flame-font);
+    color: var(--theme-brown);
+}
+/* BANNER END */
+
+/* OFFER SECTION START */
+.offer .card .card-body .btn a{
+    border-color: var(--theme-brown) !important;
+    font-family: 'Times New Roman', Times, serif;
+    color: var(--theme-brown) !important;
+}
+/* OFFER SECTION END */
+
+/* APP - INFO SECTION START */
+.app-info .app-info-content h2,
+.app-info .app-info-content p{
+    font-family: var(--Flame-font);
+    color: var(--theme-brown);
+}
+/* APP - INFO SECTION END */
